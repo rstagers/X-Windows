@@ -1,6 +1,10 @@
 //
 //
 // Copyright 2002 Rob Tougher <robt@robtougher.com>
+// Modified  2017 R Stagers <kf7ekb@gmail.com>
+//
+// -Wreorder warnings eliminated.
+// Added virtual void set_title(std::string title)
 //
 // This file is part of xlib++.
 //

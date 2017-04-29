@@ -1,6 +1,5 @@
 //
 //
-// Copyright 2002 Rob Tougher <robt@robtougher.com>
 // Copyright 2017 RStagers <kf7ekb@gmail.com>
 //
 // This file is part of xlib++.

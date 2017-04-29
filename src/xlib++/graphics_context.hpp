@@ -1,6 +1,9 @@
 //
 //
 // Copyright 2002 Rob Tougher <robt@robtougher.com>
+// Modified  2017 R Stagers <kf7ekb@gmail.com>
+//
+// Fixed bug in std::vector<int> get_character_widths ( std::string text )
 //
 // This file is part of xlib++.
 //
